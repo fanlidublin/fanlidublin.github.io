@@ -1869,7 +1869,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding-top: 0px;
+  padding-top: 10px;
   padding-bottom: 30px;
 }
 
@@ -1884,7 +1884,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   float: left;
   font-weight: 600;
   opacity: 0.2;
-  margin-top: 54px;
+  margin-top: 20px;
 }
 
 .footer__image {
