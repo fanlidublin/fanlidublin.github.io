@@ -833,7 +833,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 280px;
   height: 280px;
   border-radius: 150px;
-  background-image: url("../img/hero_photo.jpg");
+  background-image: url("../img/fan.jpg");
   background-size: cover;
 }
 
@@ -1869,7 +1869,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding-top: 50px;
+  padding-top: 0px;
   padding-bottom: 30px;
 }
 
@@ -1896,6 +1896,14 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   background-repeat: no-repeat;
   float: right;
   opacity: 0.2;
+}
+
+.footer__words {
+  font-size: 26px;
+  float: right;
+  font-weight: 600;
+  opacity: 0.2;
+  margin-top: 30px;
 }
 
 /*------------------------------------*	(max-width: 1300px)
