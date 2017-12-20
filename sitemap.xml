@@ -3,48 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fanlidublin.github.io/welcome/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
+    <loc>https://fanli.io/post/first/</loc>
+    <lastmod>2017-12-20T15:47:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fanlidublin.github.io/categories/</loc>
+    <loc>https://fanli.io/</loc>
+    <lastmod>2017-12-20T15:47:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://fanlidublin.github.io/tags/development/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
+    <loc>https://fanli.io/post/</loc>
+    <lastmod>2017-12-20T15:47:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://fanlidublin.github.io/categories/development/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
+    <loc>https://fanli.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://fanlidublin.github.io/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://fanlidublin.github.io/tags/haha/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://fanlidublin.github.io/categories/haha/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://fanlidublin.github.io/tags/</loc>
-    <lastmod>2017-12-19T23:32:05+00:00</lastmod>
+    <loc>https://fanli.io/topics/</loc>
     <priority>0</priority>
   </url>
   
