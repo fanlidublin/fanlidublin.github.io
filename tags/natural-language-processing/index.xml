@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing on Fan Li</title>
+    <link>https://fanlidublin.github.io/tags/natural-language-processing/</link>
+    <description>Recent content in Natural Language Processing on Fan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 19:39:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://fanlidublin.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Summary of Text Analytics Module (COMP47600 in UCD)</title>
+      <link>https://fanlidublin.github.io/post/text_analytics/</link>
+      <pubDate>Wed, 20 Dec 2017 19:39:25 +0000</pubDate>
+      
+      <guid>https://fanlidublin.github.io/post/text_analytics/</guid>
+      <description>_ 1. Pre-processing: _
+is about cleaning up text-data for future use, five typical steps including:
+ &amp;ndash;Tokenization &amp;amp; Normalization &amp;ndash;Fix misspelling &amp;ndash;Stemming, lemmatization, pos-tagging &amp;ndash;Entity extraction &amp;ndash;Removing stop words  Tokenization : tokenization is a process to find boundaries between word-like entities in character string. Concretely, it helps to identify individual words, numbers, and other single coherent constructs. The nltk Python tokenizer works off a set of rules for handling things of different types, including rules are quite general (e.</description>
+    </item>
+    
+  </channel>
+</rss>

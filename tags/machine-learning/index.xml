@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Fan Li</title>
+    <link>https://fanlidublin.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Fan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 18:39:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://fanlidublin.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basics you need to know in Machine Learning</title>
+      <link>https://fanlidublin.github.io/post/test/</link>
+      <pubDate>Wed, 20 Dec 2017 18:39:15 +0000</pubDate>
+      
+      <guid>https://fanlidublin.github.io/post/test/</guid>
+      <description>1. Eager vs Lazy Classiﬁers
+Eager Learning Classiﬁcation Strategy
+ Classiﬁer builds a full model during an initial training phase, to use later when new query examples arrive. More oﬄine setup work, less work at run-time. Generalise before seeing the query example.  Lazy Learning Classiﬁcation Strategy
+ Classiﬁer keeps all the training examples for later use. Little work is done oﬄine, wait for new query examples. Focus on the local space around the examples.</description>
+    </item>
+    
+  </channel>
+</rss>

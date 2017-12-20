@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fan Li</title>
-    <link>https://fanlidublin.github.io/</link>
-    <description>Recent content on Fan Li</description>
+    <title>Posts on Fan Li</title>
+    <link>https://fanlidublin.github.io/post/</link>
+    <description>Recent content in Posts on Fan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017. All rights reserved.</copyright>
     <lastBuildDate>Wed, 20 Dec 2017 19:39:25 +0000</lastBuildDate>
     
-	<atom:link href="https://fanlidublin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fanlidublin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -33,16 +33,6 @@ is about cleaning up text-data for future use, five typical steps including:
 Eager Learning Classiﬁcation Strategy
  Classiﬁer builds a full model during an initial training phase, to use later when new query examples arrive. More oﬄine setup work, less work at run-time. Generalise before seeing the query example.  Lazy Learning Classiﬁcation Strategy
  Classiﬁer keeps all the training examples for later use. Little work is done oﬄine, wait for new query examples. Focus on the local space around the examples.</description>
-    </item>
-    
-    <item>
-      <title>Recources</title>
-      <link>https://fanlidublin.github.io/about/</link>
-      <pubDate>Wed, 20 Dec 2017 18:38:04 +0000</pubDate>
-      
-      <guid>https://fanlidublin.github.io/about/</guid>
-      <description> These are my favorite resources you can use to become a excellent (machine learning, deep learning, etc.) engineer. All of the resources are available for free online. You can check them through the links respectively.
-Machine Learning Theory  Machine Learning, Stanford University Machine Learning, Carnegie Mellon University Machine Learning, MIT Machine Learning, California Institute of Technology Machine Learning, Oxford University Machine Learning, Data School  </description>
     </item>
     
   </channel>

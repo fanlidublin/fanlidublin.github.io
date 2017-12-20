@@ -5,7 +5,9 @@
   <meta charset="utf-8" />
 
   
-  <title>Fan Li</title>
+  <title>
+  Recources | Fan Li
+</title>
 
   
   
@@ -29,7 +31,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Fan Li" />
   <meta property="og:description" content="***" />
-  <meta property="og:url" content="https://fanlidublin.github.io/" />
+  <meta property="og:url" content="https://fanlidublin.github.io/about/" />
   <meta property="og:image" content="https://fanlidublin.github.io/img/avatar.jpg" />
 
 
@@ -38,7 +40,7 @@
 <meta name="generator" content="Hugo 0.31.1" />
 
 
-<link rel="canonical" href="https://fanlidublin.github.io/" />
+<link rel="canonical" href="https://fanlidublin.github.io/about/" />
 <link rel="alternative" href="https://fanlidublin.github.io/index.xml" title="Fan Li" type="application/atom+xml" />
 
 
@@ -73,6 +75,8 @@
 
 
 
+<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
+
 <link rel="stylesheet" href="https://fanlidublin.github.io/css/bundle.css" />
 
 
@@ -106,7 +110,7 @@
   <header class="site-header">
   <img class="avatar" src="https://fanlidublin.github.io/img/avatar.jpg" alt="Avatar">
   
-  <h1 class="title">Fan Li</h1>
+  <h2 class="title">Fan Li</h2>
   
   <p class="subtitle">Stay hungry, stay foolish.</p>
   <button class="menu-toggle" type="button">
@@ -120,8 +124,6 @@
       
       
         <li class="menu-item
-            
-              is-active
             
             
             ">
@@ -143,6 +145,8 @@
           </li>
       
         <li class="menu-item
+            
+              is-active
             
             
             ">
@@ -219,45 +223,47 @@
   </nav>
 </header>
 
-  <section class="main post-list">
-    <header class="list-header offscreen">
-      <h2 class="list-label">All Posts</h2>
+  <section class="main post-detail">
+    <header class="post-header">
+      <h1 class="post-title">Recources</h1>
     </header>
-    
-    
-      
-        <article class="post-entry">
-  <header class="post-header">
-    <h3 class="post-title"><a href="https://fanlidublin.github.io/post/text_analytics/" class="post-link">Summary of Text Analytics Module (COMP47600 in UCD)</a></h3>
-    <p class="post-meta">@Fan Li · Dec 20, 2017 · 17 min read</p>
-  </header>
-  
-  <p class="post-summary">_ 1. Pre-processing: _
-is about cleaning up text-data for future use, five typical steps including:
- –Tokenization &amp; Normalization –Fix misspelling –Stemming, lemmatization, pos-tagging –Entity extraction –Removing stop words  Tokenization : tokenization is a process to find boundaries between word-like entities in character string. Concretely, it helps to identify individual words, numbers, and other single coherent constructs. The nltk Python tokenizer works off a set of rules for handling things of different types, including rules are quite general (e.</p>
-  <footer class="post-footer">
-    <a class="read-more" href="https://fanlidublin.github.io/post/text_analytics/">Read More →</a>
-  </footer>
-</article>
+    <article class="post-content">
 
-      
-        <article class="post-entry">
-  <header class="post-header">
-    <h3 class="post-title"><a href="https://fanlidublin.github.io/post/test/" class="post-link">Basics you need to know in Machine Learning</a></h3>
-    <p class="post-meta">@Fan Li · Dec 20, 2017 · 16 min read</p>
-  </header>
-  
-  <p class="post-summary">1. Eager vs Lazy Classiﬁers
-Eager Learning Classiﬁcation Strategy
- Classiﬁer builds a full model during an initial training phase, to use later when new query examples arrive. More oﬄine setup work, less work at run-time. Generalise before seeing the query example.  Lazy Learning Classiﬁcation Strategy
- Classiﬁer keeps all the training examples for later use. Little work is done oﬄine, wait for new query examples. Focus on the local space around the examples.</p>
-  <footer class="post-footer">
-    <a class="read-more" href="https://fanlidublin.github.io/post/test/">Read More →</a>
-  </footer>
-</article>
+<p>These are my favorite resources you can use to become a excellent (machine learning, deep learning, etc.) engineer. All of the resources are available for free online. You can check them through the links respectively.</p>
 
-      
+<h3 id="machine-learning-theory">Machine Learning Theory</h3>
+
+<ul>
+<li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning, Stanford University</a></li>
+<li><a href="http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml">Machine Learning, Carnegie Mellon University</a></li>
+<li><a href="http://work.caltech.edu/library/index.html">Machine Learning, MIT</a></li>
+<li><a href="https://github.com/spf13/cast">Machine Learning, California Institute of Technology</a></li>
+<li><a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/">Machine Learning, Oxford University</a></li>
+<li><a href="http://www.dataschool.io/machine-learning-with-scikit-learn/">Machine Learning, Data School</a></li>
+</ul>
+</article>
     
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "disqus_shortname" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      
     
   </section>
   <footer class="site-footer">
@@ -267,6 +273,30 @@ Eager Learning Classiﬁcation Strategy
 </footer>
 
 
+
+<script async src="//cdn.bootcss.com/video.js/6.2.8/alt/video.novtt.min.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\[','\]']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+      extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+</script>
+<script type="text/x-mathjax-config">
+  // Fix <code> tags after MathJax finishes running. This is a
+  // hack to overcome a shortcoming of Markdown. Discussion at
+  // https://github.com/mojombo/jekyll/issues/199
+  MathJax.Hub.Queue(() => {
+    MathJax.Hub.getAllJax().map(v => v.SourceElement().parentNode.className += ' has-jax');
+  });
+</script>
 
 <script src="https://fanlidublin.github.io/js/bundle.js"></script>
 
