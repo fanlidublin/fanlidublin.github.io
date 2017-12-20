@@ -1,8 +1,0 @@
-baseURL = "http://fanlidublin.github.io/"
-languageCode = "en-us"
-title = "Fan Li Blog"
-theme = "hyde"
-
-[params]
-    description = "这里是Fan Li的个人博客"
-    themeColor = "theme-base-08" # for hyde theme

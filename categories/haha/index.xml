@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haha on Fan Li Blog</title>
+    <link>http://fanlidublin.github.io/categories/haha/</link>
+    <description>Recent content in Haha on Fan Li Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2017 23:32:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://fanlidublin.github.io/categories/haha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你好，Hugo</title>
+      <link>http://fanlidublin.github.io/welcome/</link>
+      <pubDate>Tue, 19 Dec 2017 23:32:05 +0000</pubDate>
+      
+      <guid>http://fanlidublin.github.io/welcome/</guid>
+      <description>This is a test article by Fan.</description>
+    </item>
+    
+  </channel>
+</rss>
